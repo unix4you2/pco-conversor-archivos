@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nombre": "Andrea González",
+    "cedula": "1022334455",
+    "direccion": "Carrera 24 #65-10, Bogotá",
+    "telefono": "+57 312 9876543",
+    "sitio_web": "https://andreaconsulting.co",
+    "correo": "andrea.gonzalez@email.com",
+    "valor_ventas": 3745000,
+    "fecha_registro": "2023-04-21",
+    "categoria": "Premium"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Méndez",
+    "cedula": "1010102233",
+    "direccion": "Av. 68 #35-24, Medellín",
+    "telefono": "+57 310 1122334",
+    "sitio_web": "http://mendezsoluciones.com",
+    "correo": "cmendez@soluciones.com",
+    "valor_ventas": 1850000,
+    "fecha_registro": "2024-02-10",
+    "categoria": "Estándar"
+  },
+  {
+    "id": 3,
+    "nombre": "Laura Ramírez",
+    "cedula": "1045657889",
+    "direccion": "Calle 50 #10-15, Cali",
+    "telefono": "+57 320 5566778",
+    "sitio_web": "https://laura-shop.net",
+    "correo": "contacto@laura-shop.net",
+    "valor_ventas": 980000,
+    "fecha_registro": "2023-09-07",
+    "categoria": "Nuevo"
+  },
+  {
+    "id": 4,
+    "nombre": "Jorge Herrera",
+    "cedula": "1056789001",
+    "direccion": "Transversal 6 #45-99, Bucaramanga",
+    "telefono": "+57 318 6677889",
+    "sitio_web": "",
+    "correo": "jorge.herrera@hotmail.com",
+    "valor_ventas": 2150000,
+    "fecha_registro": "2023-12-15",
+    "categoria": "Estándar"
+  },
+  {
+    "id": 5,
+    "nombre": "Mariana Torres",
+    "cedula": "1098765432",
+    "direccion": "Diagonal 78 #11-34, Barranquilla",
+    "telefono": "+57 315 3344556",
+    "sitio_web": "http://marianatorres.org",
+    "correo": "m.torres@orgmail.net",
+    "valor_ventas": 15700000,
+    "fecha_registro": "2024-07-01",
+    "categoria": "Premium"
+  }
+]
+

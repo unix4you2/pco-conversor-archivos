@@ -1,0 +1,63 @@
+<clientes>
+  <cliente>
+    <id>1</id>
+    <nombre>Andrea González</nombre>
+    <cedula>1022334455</cedula>
+    <direccion>Carrera 24 #65-10, Bogotá</direccion>
+    <telefono>+57 312 9876543</telefono>
+    <sitio_web>https://andreaconsulting.co</sitio_web>
+    <correo>andrea.gonzalez@email.com</correo>
+    <valor_ventas>3745000</valor_ventas>
+    <fecha_registro>2023-04-21</fecha_registro>
+    <categoria>Premium</categoria>
+  </cliente>
+  <cliente>
+    <id>2</id>
+    <nombre>Carlos Méndez</nombre>
+    <cedula>1010102233</cedula>
+    <direccion>Av. 68 #35-24, Medellín</direccion>
+    <telefono>+57 310 1122334</telefono>
+    <sitio_web>http://mendezsoluciones.com</sitio_web>
+    <correo>cmendez@soluciones.com</correo>
+    <valor_ventas>1850000</valor_ventas>
+    <fecha_registro>2024-02-10</fecha_registro>
+    <categoria>Estándar</categoria>
+  </cliente>
+  <cliente>
+    <id>3</id>
+    <nombre>Laura Ramírez</nombre>
+    <cedula>1045657889</cedula>
+    <direccion>Calle 50 #10-15, Cali</direccion>
+    <telefono>+57 320 5566778</telefono>
+    <sitio_web>https://laura-shop.net</sitio_web>
+    <correo>contacto@laura-shop.net</correo>
+    <valor_ventas>980000</valor_ventas>
+    <fecha_registro>2023-09-07</fecha_registro>
+    <categoria>Nuevo</categoria>
+  </cliente>
+  <cliente>
+    <id>4</id>
+    <nombre>Jorge Herrera</nombre>
+    <cedula>1056789001</cedula>
+    <direccion>Transversal 6 #45-99, Bucaramanga</direccion>
+    <telefono>+57 318 6677889</telefono>
+    <sitio_web></sitio_web>
+    <correo>jorge.herrera@hotmail.com</correo>
+    <valor_ventas>2150000</valor_ventas>
+    <fecha_registro>2023-12-15</fecha_registro>
+    <categoria>Estándar</categoria>
+  </cliente>
+  <cliente>
+    <id>5</id>
+    <nombre>Mariana Torres</nombre>
+    <cedula>1098765432</cedula>
+    <direccion>Diagonal 78 #11-34, Barranquilla</direccion>
+    <telefono>+57 315 3344556</telefono>
+    <sitio_web>http://marianatorres.org</sitio_web>
+    <correo>m.torres@orgmail.net</correo>
+    <valor_ventas>15700000</valor_ventas>
+    <fecha_registro>2024-07-01</fecha_registro>
+    <categoria>Premium</categoria>
+  </cliente>
+</clientes>
+
